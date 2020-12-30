@@ -69,4 +69,4 @@ jobs:
       cron: '10 1 * * *'
     parameters:
       ACCOUNTS:
-        - COOKIE:
+        - COOKIE:{"key":"chavy_cookie_bilibili","val":"DedeUserID=17742642; DedeUserID__ckMd5=05b6a04948d55916; SESSDATA=ad7fde05%2C1622723370%2Cf93f7*c1; bili_jct=0adca45d2a0eb5f772b5ac3ae1c8ef4f; sid=5r75p5c0; buvid3=DA590442-904F-4AB3-B750-E2A78869A0BD143084infoc"}
